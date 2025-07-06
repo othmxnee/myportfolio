@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Event and RSVP Management ",
+        "description": "A web app for creating events, sending invitations, and managing RSVPs with automated email confirmations. deployed on AWS Cloud.",
+        "imageSrc": "projects/project1.jpeg",
+        "link": "https://github.com/othmxnee/RSVPs-and-Events-management-deployed-to-aws",
+        "more": "https://www.linkedin.com/feed/update/urn:li:activity:7224922713692270594/"
+    },
+    {
+        "title": "E-learning Esi Sba ",
+        "description": "e-learning platform designed to revolutionize remote teaching and learning experiences. ",
+        "imageSrc": "projects/project2.jpeg",
+        "link": "https://github.com/othmxnee/backend_1CS/tree/main",
+        "more": "https://www.linkedin.com/posts/bouhenni-othmane-27160b265_hi-everyone-we-are-thrilled-to-unveil-our-activity-7220464334584385536-obj_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENY7UBQbq04yljDSi_ibltreZ8Vr_JIrw"
+    },
+    {
+        "title": "Attendy",
+        "description": "class attendance management with a user-friendly interface for teachers and students, allowing easy tracking of attendance records.",
+        "imageSrc": "projects/project3.png",
+        "link": "https://github.com/othmxnee",
+        "more": "https://www.linkedin.com/posts/bouhenni-othmane-27160b265_attendy-activity-7145923204795043840-TB5x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENY7UBQbq04yljDSi_ibltreZ8Vr_JIrw"
+    },
+    {
+        "title": "ChatGPT Product Detector with CJ Affiliate Integration",
+        "description": "Detects and highlights products in ChatGPT responses, showing real-time CJ Affiliate results with title and price on hover.",
+        "imageSrc": "projects/project4.png",
+        "link": "https://github.com/othmxnee/ChatgptAffiliate",
+        "more": "https://chromewebstore.google.com/detail/chatgpt-product-detector/alimdjneagodhdldkkiomhliciiimkin?hl=en-US&utm_source=ext_sidebar"
+    }
+
+
+
+
+
+]

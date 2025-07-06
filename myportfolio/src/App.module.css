@@ -1,0 +1,8 @@
+@import './vars.css';
+
+.App{
+    background-color: var(--color-dark);
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
